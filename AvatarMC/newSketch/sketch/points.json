@@ -1,0 +1,947 @@
+{
+  "0": {
+    "name": "FNC",
+    "x": 3776,
+    "y": 9371,
+    "maj": true,
+    "hide": false,
+    "connections": [1],
+    "connectionTypes": ["W"]
+  },
+  "1": {
+    "name": "Benders\nUnited\nJunction",
+    "x": 4585,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [2, 3],
+    "connectionTypes": ["W"]
+  },
+  "2": {
+    "name": "Benders\nUnited",
+    "x": 4585,
+    "y": 9675,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "3": {
+    "name": "Maoyi\nJunction",
+    "x": 5099,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [4, 5],
+    "connectionTypes": ["W"]
+  },
+  "4": {
+    "name": "Maoyi",
+    "x": 5092,
+    "y": 9233,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "5": {
+    "name": "Agni Kai & Backpackers Junction",
+    "x": 5872,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [6],
+    "connectionTypes": ["W"]
+  },
+  "6": {
+    "name": "BackpackerCity Junction (Spawn)",
+    "x": 6065,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [7, 8],
+    "connectionTypes": ["W"]
+  },
+  "7": {
+    "name": "Backpacker City\n(Spawn)",
+    "x": 6070,
+    "y": 9683,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "8": {
+    "name": "Backpacker City Junction (Bridge)",
+    "x": 6197,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [9, 11],
+    "connectionTypes": ["W"]
+  },
+  "9": {
+    "name": "Backpacker City\n(Bridge)",
+    "x": 6198,
+    "y": 9641,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "10": {
+    "name": "Blackcliffs\n(Island)",
+    "x": 6220,
+    "y": 10056,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "11": {
+    "name": "Blackcliffs Junction",
+    "x": 6322,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [15],
+    "connectionTypes": ["W"]
+  },
+  "12": {
+    "name": "Blackcliffs Junction (Island)",
+    "x": 6198,
+    "y": 9641,
+    "maj": false,
+    "hide": true,
+    "connections": [10],
+    "connectionTypes": ["W"]
+  },
+  "13": {
+    "name": "Kraotum\n(Outpost)",
+    "x": 4091,
+    "y": 6640,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "14": {
+    "name": "Blackcliffs\n(Colony)",
+    "x": 6319,
+    "y": 10443,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "14": {
+    "name": "Kraotum (Outpost) Junction",
+    "x": 4091,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [13],
+    "connectionTypes": ["W"]
+  },
+  "15": {
+    "name": "Fire Fountain\nJunction",
+    "x": 7975,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [16, 80],
+    "connectionTypes": ["W"]
+  },
+  "16": {
+    "name": "FV & RGL Junction",
+    "x": 8682,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [17, 18],
+    "connectionTypes": ["W"]
+  },
+  "17": {
+    "name": "FieryVein &\nRonGyonLong",
+    "x": 8682,
+    "y": 10205,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "18": {
+    "name": "Fort Turtle Duck Junction",
+    "x": 8752,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [19, 20],
+    "connectionTypes": ["W"]
+  },
+  "19": {
+    "name": "Fort Turtle Duck",
+    "x": 8752,
+    "y": 9784,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "20": {
+    "name": "Yanghai Highway",
+    "x": 8930,
+    "y": 9371,
+    "maj": true,
+    "hide": true,
+    "connections": [21, 79],
+    "connectionTypes": ["W"]
+  },
+  "21": {
+    "name": "The Tea\nWeevil",
+    "x": 9845,
+    "y": 9371,
+    "maj": false,
+    "hide": false,
+    "connections": [22],
+    "connectionTypes": ["W"]
+  },
+  "22": {
+    "name": "Saito\nRailway",
+    "x": 10089,
+    "y": 9371,
+    "maj": false,
+    "hide": false,
+    "connections": [23],
+    "connectionTypes": ["W"]
+  },
+  "23": {
+    "name": "Tunnel W-001 Junction",
+    "x": 10512,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [24, 25],
+    "connectionTypes": ["W"]
+  },
+  "24": {
+    "name": "Tunnel\nW-001",
+    "x": 10512,
+    "y": 8518,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "25": {
+    "name": "FireFerretIs (Kyoto) Junction",
+    "x": 10864,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [26, 27],
+    "connectionTypes": ["W"]
+  },
+  "26": {
+    "name": "FireFerretIsland\n(Kyoto)",
+    "x": 10864,
+    "y": 8366,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "27": {
+    "name": "Tunnel W-002 Junction",
+    "x": 10963,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [28, 29],
+    "connectionTypes": ["W"]
+  },
+  "28": {
+    "name": "Tunnel\nW-002",
+    "x": 10963,
+    "y": 9241,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "29": {
+    "name": "McNoodlesHQ Junction",
+    "x": 11407,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [30, 31],
+    "connectionTypes": ["W"]
+  },
+  "30": {
+    "name": "McNoodlesHQ",
+    "x": 11407,
+    "y": 7199,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "31": {
+    "name": "Nation\nBorder",
+    "x": 11857,
+    "y": 9371,
+    "maj": true,
+    "hide": false,
+    "connections": [32],
+    "connectionTypes": ["W"]
+  },
+  "32": {
+    "name": "Tunnel W-003 Junction",
+    "x": 12558,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [33, 40],
+    "connectionTypes": ["W"]
+  },
+  "33": {
+    "name": "Tunnel\nW-003",
+    "x": 12558,
+    "y": 9404,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["W"]
+  },
+  "40": {
+    "name": "Connection\nHub",
+    "x": 13656,
+    "y": 9371,
+    "maj": true,
+    "hide": false,
+    "connections": [35, 81],
+    "connectionTypes": ["E", "N"]
+  },
+  "34": {
+    "name": "Tunnel\nE-001",
+    "x": 14300,
+    "y": 9371,
+    "maj": false,
+    "hide": false,
+    "connections": [35],
+    "connectionTypes": ["E"]
+  },
+  "35": {
+    "name": "Lord Vaatu's\nTea Shop",
+    "x": 14850,
+    "y": 9402,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "36": {
+    "name": "Lord Vaatu's Tea Shop Junction",
+    "x": 14850,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [35, 37],
+    "connectionTypes": ["E"]
+  },
+  "37": {
+    "name": "Unity City\nHighway",
+    "x": 15592,
+    "y": 9371,
+    "maj": true,
+    "hide": false,
+    "connections": [38, 39],
+    "connectionTypes": ["E"]
+  },
+  "38": {
+    "name": "Omashu",
+    "x": 15588,
+    "y": 9951,
+    "maj": true,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "39": {
+    "name": "Tunnel\nE-002",
+    "x": 15871,
+    "y": 9371,
+    "maj": false,
+    "hide": false,
+    "connections": [41],
+    "connectionTypes": ["E"]
+  },
+  "41": {
+    "name": "Tunnel\nE-003",
+    "x": 17563,
+    "y": 9371,
+    "maj": false,
+    "hide": false,
+    "connections": [42],
+    "connectionTypes": ["E"]
+  },
+  "42": {
+    "name": "Fort Turtle Duck Junction",
+    "x": 18082,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [43, 44, 45],
+    "connectionTypes": ["E"]
+  },
+  "43": {
+    "name": "Fort Turtle\nDuck",
+    "x": 18064,
+    "y": 7958,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "44": {
+    "name": "Jaingshi-Guo Expressway",
+    "x": 18083,
+    "y": 8137,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "45": {
+    "name": "Bosco & Maoyi Roads Junction",
+    "x": 19740,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [46, 52, 59],
+    "connectionTypes": ["E"]
+  },
+  "46": {
+    "name": "Tunnel\nE-004A",
+    "x": 19740,
+    "y": 9083,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "47": {
+    "name": "Ba Sing Se",
+    "x": 19737,
+    "y": 7099,
+    "maj": true,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "48": {
+    "name": "WAT Junction",
+    "x": 7688,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [49],
+    "connectionTypes": ["I"]
+  },
+  "49": {
+    "name": "Kraotum",
+    "x": 7688,
+    "y": 4984,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["I"]
+  },
+  "50": {
+    "name": "WAT",
+    "x": 7487,
+    "y": 5248,
+    "maj": true,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["I"]
+  },
+  "51": {
+    "name": "Blue Moon\nBay",
+    "x": 8239,
+    "y": 5120,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["I"]
+  },
+  "52": {
+    "name": "BaSingSe Junction",
+    "x": 19740,
+    "y": 7141,
+    "maj": false,
+    "hide": true,
+    "connections": [47, 53],
+    "connectionTypes": ["E"]
+  },
+  "53": {
+    "name": "Village of\nCloudBank",
+    "x": 21191,
+    "y": 7141,
+    "maj": false,
+    "hide": false,
+    "connections": [54],
+    "connectionTypes": ["E"]
+  },
+  "53": {
+    "name": "Village of\nCloudBank",
+    "x": 21191,
+    "y": 7141,
+    "maj": false,
+    "hide": false,
+    "connections": [54],
+    "connectionTypes": ["E"]
+  },
+  "54": {
+    "name": "Maoyi/Bosco Junction",
+    "x": 21254,
+    "y": 7141,
+    "maj": false,
+    "hide": true,
+    "connections": [55, 56],
+    "connectionTypes": ["E"]
+  },
+  "55": {
+    "name": "Maoyi",
+    "x": 21254,
+    "y": 6147,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "56": {
+    "name": "Tunnel\nE-004B",
+    "x": 21409,
+    "y": 7141,
+    "maj": false,
+    "hide": false,
+    "connections": [57],
+    "connectionTypes": ["E"]
+  },
+  "57": {
+    "name": "Bosco Corner",
+    "x": 22824,
+    "y": 7141,
+    "maj": false,
+    "hide": true,
+    "connections": [58],
+    "connectionTypes": ["E"]
+  },
+  "58": {
+    "name": "asdf",
+    "x": 22824,
+    "y": 6701,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "59": {
+    "name": "Tunnel\nE-005",
+    "x": 20034,
+    "y": 9371,
+    "maj": false,
+    "hide": false,
+    "connections": [60, 61],
+    "connectionTypes": ["E"]
+  },
+  "60": {
+    "name": "BolinLand",
+    "x": 20034,
+    "y": 9917,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "61": {
+    "name": "UnityCity Junction",
+    "x": 20225,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [65],
+    "connectionTypes": ["E"]
+  },
+  "62": {
+    "name": "Tunnel\nE-006A",
+    "x": 20225,
+    "y": 9187,
+    "maj": false,
+    "hide": true,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "63": {
+    "name": "Tunnel\nE-006B",
+    "x": 20225,
+    "y": 9096,
+    "maj": false,
+    "hide": true,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "64": {
+    "name": "Dead End",
+    "x": 20225,
+    "y": 8928,
+    "maj": false,
+    "hide": true,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "65": {
+    "name": "New UnityCity Junction",
+    "x": 20264,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [66, 67],
+    "connectionTypes": ["E"]
+  },
+  "66": {
+    "name": "Unity\nCity",
+    "x": 20264,
+    "y": 9048,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "67": {
+    "name": "Hanamura Junction",
+    "x": 22222,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [68, 69],
+    "connectionTypes": ["E"]
+  },
+  "68": {
+    "name": "Hanamura",
+    "x": 22824,
+    "y": 9333,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "69": {
+    "name": "Emerald City Junction",
+    "x": 23271,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [70, 72],
+    "connectionTypes": ["E"]
+  },
+  "70": {
+    "name": "Emerald\nCity",
+    "x": 23240,
+    "y": 9646,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "71": {
+    "name": "Fast\nTravel",
+    "x": 23160,
+    "y": 9820,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "72": {
+    "name": "Corner",
+    "x": 23500,
+    "y": 9371,
+    "maj": false,
+    "hide": true,
+    "connections": [73],
+    "connectionTypes": ["E"]
+  },
+  "73": {
+    "name": "GreenShark Junction",
+    "x": 23500,
+    "y": 9090,
+    "maj": false,
+    "hide": true,
+    "connections": [74, 75],
+    "connectionTypes": ["E"]
+  },
+  "74": {
+    "name": "Green Shark",
+    "x": 23895,
+    "y": 9090,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "75": {
+    "name": "Na Sing Se Junction",
+    "x": 23500,
+    "y": 8965,
+    "maj": false,
+    "hide": true,
+    "connections": [76, 77],
+    "connectionTypes": ["E"]
+  },
+  "76": {
+    "name": "Na Sing Se",
+    "x": 23200,
+    "y": 8965,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "77": {
+    "name": "Tunnel\n007",
+    "x": 23500,
+    "y": 8491,
+    "maj": false,
+    "hide": false,
+    "connections": [78],
+    "connectionTypes": ["E"]
+  },
+  "78": {
+    "name": "Imperial City",
+    "x": 23500,
+    "y": 8080,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "79": {
+    "name": "Yanghai",
+    "x": 8933,
+    "y": 3963,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": []
+  },
+  "80": {
+    "name": "Fire\nFountain\nCity",
+    "x": 7975,
+    "y": 10222,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["E"]
+  },
+  "81": {
+    "name": "Caelus Junction",
+    "x": 13656,
+    "y": 6547,
+    "maj": false,
+    "hide": true,
+    "connections": [82, 83],
+    "connectionTypes": ["N"]
+  },
+  "82": {
+    "name": "Caelus",
+    "x": 13507,
+    "y": 6547,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["N"]
+  },
+  "83": {
+    "name": "Tunnel\nN-001",
+    "x": 13656,
+    "y": 6000,
+    "maj": false,
+    "hide": false,
+    "connections": [84],
+    "connectionTypes": ["N"]
+  },
+  "84": {
+    "name": "Southern Raiders\n(White Lotus)\nJunction",
+    "x": 13656,
+    "y": 5126,
+    "maj": false,
+    "hide": true,
+    "connections": [85, 86],
+    "connectionTypes": ["N"]
+  },
+  "85": {
+    "name": "Souther Raiders\n(White Lotus)",
+    "x": 13511,
+    "y": 5020,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["N"]
+  },
+  "86": {
+    "name": "Alcove Junction",
+    "x": 13656,
+    "y": 3944,
+    "maj": false,
+    "hide": true,
+    "connections": [87, 88],
+    "connectionTypes": ["N"]
+  },
+  "87": {
+    "name": "Alcove",
+    "x": 13519,
+    "y": 3944,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["N"]
+  },
+  "88": {
+    "name": "Corner",
+    "x": 13656,
+    "y": 3500,
+    "maj": false,
+    "hide": true,
+    "connections": [89],
+    "connectionTypes": ["N"]
+  },
+  "89": {
+    "name": "Junction",
+    "x": 14020,
+    "y": 3500,
+    "maj": false,
+    "hide": true,
+    "connections": [90, 93],
+    "connectionTypes": ["N"]
+  },
+  "90": {
+    "name": "Some\nTunnel\nThing",
+    "x": 14982,
+    "y": 3500,
+    "maj": false,
+    "hide": false,
+    "connections": [91],
+    "connectionTypes": ["N"]
+  },
+  "91": {
+    "name": "Corner",
+    "x": 15400,
+    "y": 3500,
+    "maj": false,
+    "hide": true,
+    "connections": [92],
+    "connectionTypes": ["N"]
+  },
+  "92": {
+    "name": "Baoyin",
+    "x": 15400,
+    "y": 3300,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["N"]
+  },
+  "93": {
+    "name": "Atlantis City Junction",
+    "x": 14020,
+    "y": 2875,
+    "maj": false,
+    "hide": true,
+    "connections": [94, 95],
+    "connectionTypes": ["N"]
+  },
+  "94": {
+    "name": "Atlantis\nCity",
+    "x": 16368,
+    "y": 2875,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["N"]
+  },
+  "95": {
+    "name": "Corner",
+    "x": 14020,
+    "y": 1790,
+    "maj": false,
+    "hide": true,
+    "connections": [96],
+    "connectionTypes": ["N"]
+  },
+  "96": {
+    "name": "NWT Station",
+    "x": 13366,
+    "y": 1789,
+    "maj": false,
+    "hide": false,
+    "connections": [98],
+    "connectionTypes": ["N"]
+  },
+  "97": {
+    "name": "NWT",
+    "x": 13300,
+    "y": 2000,
+    "maj": true,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["N"]
+  },
+  "98": {
+    "name": "Old Fort\nTurtle Duck\nJunction",
+    "x": 13366,
+    "y": 1543,
+    "maj": false,
+    "hide": true,
+    "connections": [99, 100],
+    "connectionTypes": ["N"]
+  },
+  "99": {
+    "name": "Snowdin",
+    "x": 13495,
+    "y": 1472,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["N"]
+  },
+  "100": {
+    "name": "Snowdin Junction",
+    "x": 13366,
+    "y": 1473,
+    "maj": false,
+    "hide": true,
+    "connections": [101, 99],
+    "connectionTypes": ["N"]
+  },
+  "101": {
+    "name": "Northern\nSpirit Portal\nStation",
+    "x": 13366,
+    "y": 1018,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["N"]
+  },
+  "102": {
+    "name": "Northern\nSpirit Portal",
+    "x": 13126,
+    "y": 1018,
+    "maj": false,
+    "hide": false,
+    "connections": [],
+    "connectionTypes": ["N"]
+  }
+}
